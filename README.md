@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Intermedia Unite.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Intermedia Unite on SOFTGIT](https://softgit.pro/p/intermedia-unite)** — the full listing.
+- 📄 **[Intermedia Unite web page](https://pausefightertackle.github.io/intermedia-unite-download/)** — standalone info page.
+- 🗂️ [More Media software](https://softgit.pro/category/media)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Intermedia Unite. Third-party software; all rights belong to the original authors.
